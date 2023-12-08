@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836432351112",
+    "project_id": "welcometodo-b82ca",
+    "storage_bucket": "welcometodo-b82ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836432351112:android:c473463e8198a449baf43d",
+        "android_client_info": {
+          "package_name": "com.example.welcome_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKpK8jKO67q2ger4gw-Uclan4q-5l1sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
